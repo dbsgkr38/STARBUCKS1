@@ -139,6 +139,8 @@ css
 
 <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
 <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+
+
 html
 
 <!-- Slider main container -->
@@ -149,7 +151,6 @@ html
     <div class="swiper-slide">Slide 1</div>
     <div class="swiper-slide">Slide 2</div>
     <div class="swiper-slide">Slide 3</div>
-    ...
   </div>
   <!-- If we need pagination -->
   <div class="swiper-pagination"></div>
@@ -161,6 +162,7 @@ html
   <!-- If we need scrollbar -->
   <div class="swiper-scrollbar"></div>
 </div>
+
 
 swiper option
 
